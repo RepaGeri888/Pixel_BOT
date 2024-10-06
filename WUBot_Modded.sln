@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WUBot_Modded", "WUBot_Modded\WUBot_Modded.pyproj", "{FD50E4B1-0E44-4081-847B-273D52FE98EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD50E4B1-0E44-4081-847B-273D52FE98EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD50E4B1-0E44-4081-847B-273D52FE98EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {149E304C-C28A-4127-8E03-BB3BBB8739E3}
+	EndGlobalSection
+EndGlobal
